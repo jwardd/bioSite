@@ -1,0 +1,42 @@
+/*
+    BioSite CSS
+    Student Name: Jacob Ward
+    File Name: style.css
+    Date: July 7, 2024
+*/
+
+
+body {
+  background-color: black;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #444444;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+nav {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+}
